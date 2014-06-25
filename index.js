@@ -40,5 +40,6 @@ module.exports = function (server) {
 
 function wrapResponse(res) {
 	var write = res.write, end = res.end
-
+	//todo
+	return res
 }
