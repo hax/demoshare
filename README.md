@@ -1,5 +1,7 @@
 # It's easy to share your demo now!
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hax/demoshare.svg)](https://greenkeeper.io/)
+
 
 ## Install
 ```sh
